@@ -2,7 +2,7 @@
 ## 1. 소개
 
 ![1](https://github.com/user-attachments/assets/c73ddc0c-e62d-484f-a23e-191c03ea9a27)
-![2](https://github.com/user-attachments/assets/4670fe3d-6ad9-4d43-98c1-c2c546f4b578)
+[2](https://github.com/user-attachments/assets/4670fe3d-6ad9-4d43-98c1-c2c546f4b578)
 
 - Unity URP로 제작된 2.5D 덱빌딩 로그라이트 모바일 게임입니다.
 - 플레이어블 캐릭터를 성장시키고 부적을 해금하는 슬레이더 스파이어 방식의 전투스타일입니다.
