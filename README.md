@@ -1,8 +1,11 @@
 ## [UNITY 3D] 망량: Detectors
 ## 1. 소개
 
-![1](https://github.com/user-attachments/assets/c73ddc0c-e62d-484f-a23e-191c03ea9a27)
-[2](https://github.com/user-attachments/assets/4670fe3d-6ad9-4d43-98c1-c2c546f4b578)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c73ddc0c-e62d-484f-a23e-191c03ea9a27" width="30%" />
+  <img src="https://github.com/user-attachments/assets/4670fe3d-6ad9-4d43-98c1-c2c546f4b578" width="30%" />
+  <img src="https://github.com/user-attachments/assets/20d9ea3a-a6d2-4a59-ba4f-26df5a5a379b" width="30%" />
+</p>
 
 - Unity URP로 제작된 2.5D 덱빌딩 로그라이트 모바일 게임입니다.
 - 플레이어블 캐릭터를 성장시키고 부적을 해금하는 슬레이더 스파이어 방식의 전투스타일입니다.
